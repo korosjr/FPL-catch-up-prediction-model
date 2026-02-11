@@ -1,0 +1,89 @@
+{
+  "new_entries": {
+    "has_next": false,
+    "page": 1,
+    "results": []
+  },
+  "last_updated_data": "2026-02-07T00:11:15Z",
+  "league": {
+    "id": 275703,
+    "name": "The Pentagon 3.0",
+    "created": "2025-07-23T16:51:43.789824Z",
+    "closed": false,
+    "max_entries": null,
+    "league_type": "x",
+    "scoring": "c",
+    "admin_entry": 22846,
+    "start_event": 1,
+    "code_privacy": "p",
+    "has_cup": true,
+    "cup_league": null,
+    "rank": null
+  },
+  "standings": {
+    "has_next": false,
+    "page": 1,
+    "results": [
+      {
+        "id": 15478414,
+        "event_total": 0,
+        "player_name": "R. Mancini",
+        "rank": 1,
+        "last_rank": 1,
+        "rank_sort": 1,
+        "total": 1383,
+        "entry": 2176692,
+        "entry_name": "93.20",
+        "has_played": true
+      },
+      {
+        "id": 24427850,
+        "event_total": 9,
+        "player_name": "Adams .",
+        "rank": 2,
+        "last_rank": 2,
+        "rank_sort": 2,
+        "total": 1370,
+        "entry": 3298482,
+        "entry_name": "WINTER IS COMING",
+        "has_played": true
+      },
+      {
+        "id": 10941245,
+        "event_total": 4,
+        "player_name": "Abel \ud83c\udfc8",
+        "rank": 3,
+        "last_rank": 3,
+        "rank_sort": 3,
+        "total": 1349,
+        "entry": 22846,
+        "entry_name": "Ctrl Alt De Ligt",
+        "has_played": true
+      },
+      {
+        "id": 34271198,
+        "event_total": 0,
+        "player_name": "Maiywa Junior",
+        "rank": 4,
+        "last_rank": 4,
+        "rank_sort": 4,
+        "total": 1319,
+        "entry": 4495691,
+        "entry_name": "Snipers Fc",
+        "has_played": true
+      },
+      {
+        "id": 52217941,
+        "event_total": 0,
+        "player_name": "Kipkurui Ngeny",
+        "rank": 5,
+        "last_rank": 5,
+        "rank_sort": 5,
+        "total": 1283,
+        "entry": 6544475,
+        "entry_name": "kipkurui",
+        "has_played": true
+      }
+    ]
+  }
+}
